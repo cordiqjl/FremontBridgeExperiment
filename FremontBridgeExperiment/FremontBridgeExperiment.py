@@ -9,6 +9,8 @@ CONTAINERNAME = 'fremontbridge'
 STORAGEACCOUNTNAME = 'cdqjlsa01'
 STORAGEACCOUNTKEY = 'meI5fWQ7clsbUJ+8dv0euXYQ2fYIi5FbY3I6iVtnI7p9niPsoxUczENBXnihRRo1S6iB+6Vu+wHwTkEgh5ZmQQ=='
 
+print("whatever")
+
 blob = []
 filename = []
 frames = []
